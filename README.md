@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche está fría, pero tú me quemas
+> Con esa mirada me quitas los problemas
+> Estamos tú y yo, mami, contra el sistema
+> Dime que te vas conmigo, que valga la pena
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
