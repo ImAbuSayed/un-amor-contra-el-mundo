@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-amor-contra-el-mundo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Un amor contra el mundo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amor-contra-el-mundo/) |
+| **Get License** | [License this song: Un amor contra el mundo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amor-contra-el-mundo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3186)
 
 ---
 
