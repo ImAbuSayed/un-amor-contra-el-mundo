@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un amor contra el mundo
+
+This log tracks the cryptographic history and versioning for the song **Un amor contra el mundo** (un-amor-contra-el-mundo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T18:47:26.740047 | `v1` | `d33ffbadc7aa2e7111c9ebe653400593043c42cd7c4415688fa880a02d5499fe` | `3607cfa0f9e44491b8bad329f903a61c20d55015a5de3f7cd9de8d8543de1f4f` | `2026-06-13_un-amor-contra-el-mundo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
